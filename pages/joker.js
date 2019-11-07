@@ -68,8 +68,8 @@ class Joker extends Component {
         this.state = {value: '', respRandon: ''};
       }
 
-      handleChange(event) {
-        this.setState({value: event.target.value});
+      async handleChange(event) {
+        await this.setState({value: event.target.value});
         this.random(this.state.value);
       }
 

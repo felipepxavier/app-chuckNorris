@@ -7646,10 +7646,10 @@ function concatArrays(originVal, newVal) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Cjoker.js!./":
-/*!**********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Cjoker.js ***!
-  \**********************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Cjoker.js!./":
+/*!****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Cjoker.js ***!
+  \****************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10407,12 +10407,12 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "./node_modules/n
 
 /***/ "./node_modules/object-assign/index.js":
 /*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -11080,12 +11080,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -11720,12 +11720,12 @@ if (true) {
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -13262,12 +13262,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -17558,33 +17558,23 @@ function (_Component) {
 
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_8__["default"])(Joker, [{
     key: "handleChange",
-    value: function handleChange(event) {
-      this.setState({
-        value: event.target.value
-      });
-      this.random(this.state.value);
-    }
-  }, {
-    key: "random",
     value: function () {
-      var _random = Object(_babel_runtime_corejs2_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__["default"])(
+      var _handleChange = Object(_babel_runtime_corejs2_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__["default"])(
       /*#__PURE__*/
-      _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(function _callee2(categoria) {
-        var response;
+      _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(function _callee2(event) {
         return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.wrap(function _callee2$(_context2) {
           while (1) {
             switch (_context2.prev = _context2.next) {
               case 0:
                 _context2.next = 2;
-                return axios__WEBPACK_IMPORTED_MODULE_11___default.a.get("https://api.chucknorris.io/jokes/random?category=".concat(categoria));
+                return this.setState({
+                  value: event.target.value
+                });
 
               case 2:
-                response = _context2.sent;
-                return _context2.abrupt("return", this.setState({
-                  respRandon: response.data.value
-                }));
+                this.random(this.state.value);
 
-              case 4:
+              case 3:
               case "end":
                 return _context2.stop();
             }
@@ -17592,7 +17582,41 @@ function (_Component) {
         }, _callee2, this);
       }));
 
-      function random(_x) {
+      function handleChange(_x) {
+        return _handleChange.apply(this, arguments);
+      }
+
+      return handleChange;
+    }()
+  }, {
+    key: "random",
+    value: function () {
+      var _random = Object(_babel_runtime_corejs2_helpers_esm_asyncToGenerator__WEBPACK_IMPORTED_MODULE_3__["default"])(
+      /*#__PURE__*/
+      _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(function _callee3(categoria) {
+        var response;
+        return _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.wrap(function _callee3$(_context3) {
+          while (1) {
+            switch (_context3.prev = _context3.next) {
+              case 0:
+                _context3.next = 2;
+                return axios__WEBPACK_IMPORTED_MODULE_11___default.a.get("https://api.chucknorris.io/jokes/random?category=".concat(categoria));
+
+              case 2:
+                response = _context3.sent;
+                return _context3.abrupt("return", this.setState({
+                  respRandon: response.data.value
+                }));
+
+              case 4:
+              case "end":
+                return _context3.stop();
+            }
+          }
+        }, _callee3, this);
+      }));
+
+      function random(_x2) {
         return _random.apply(this, arguments);
       }
 
@@ -17706,28 +17730,28 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 
 /***/ }),
 
-/***/ 2:
-/*!**************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fjoker&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Cjoker.js ***!
-  \**************************************************************************************************************************************************/
+/***/ 1:
+/*!********************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fjoker&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Cjoker.js ***!
+  \********************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fjoker&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Cjoker.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Cjoker.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fjoker&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Cjoker.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fjoker&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Cjoker.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_ea92a4d9664833a26066":
+/***/ "dll-reference dll_e9ad7d891b372a4221cf":
 /*!*******************************************!*\
-  !*** external "dll_ea92a4d9664833a26066" ***!
+  !*** external "dll_e9ad7d891b372a4221cf" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_ea92a4d9664833a26066;
+module.exports = dll_e9ad7d891b372a4221cf;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=joker.js.map

@@ -1916,7 +1916,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\felipe.xavier\Desktop\PEDROSO\nextjs\pages\home.js */"./pages/home.js");
+module.exports = __webpack_require__(/*! C:\Rocketseat\bootcamp\desafios_fazer\app-chuckNorris\pages\home.js */"./pages/home.js");
 
 
 /***/ }),

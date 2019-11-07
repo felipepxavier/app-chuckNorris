@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1883,8 +1883,8 @@ class Joker extends react__WEBPACK_IMPORTED_MODULE_1__["Component"] {
     };
   }
 
-  handleChange(event) {
-    this.setState({
+  async handleChange(event) {
+    await this.setState({
       value: event.target.value
     });
     this.random(this.state.value);
@@ -1970,14 +1970,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
-/***/ 5:
+/***/ 4:
 /*!******************************!*\
   !*** multi ./pages/joker.js ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\felipe.xavier\Desktop\PEDROSO\nextjs\pages\joker.js */"./pages/joker.js");
+module.exports = __webpack_require__(/*! C:\Rocketseat\bootcamp\desafios_fazer\app-chuckNorris\pages\joker.js */"./pages/joker.js");
 
 
 /***/ }),

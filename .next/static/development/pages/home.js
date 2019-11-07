@@ -5724,10 +5724,10 @@ function concatArrays(originVal, newVal) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Chome.js!./":
-/*!********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Chome.js ***!
-  \********************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Chome.js!./":
+/*!**************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Chome.js ***!
+  \**************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8485,12 +8485,12 @@ module.exports = __webpack_require__(/*! ./dist/client/link */ "./node_modules/n
 
 /***/ "./node_modules/object-assign/index.js":
 /*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -9158,12 +9158,12 @@ module.exports = exports['default'];
 
 /***/ "./node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/prop-types/checkPropTypes.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/prop-types/checkPropTypes.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/prop-types/checkPropTypes.js");
 
 /***/ }),
 
@@ -9798,12 +9798,12 @@ if (true) {
 
 /***/ "./node_modules/prop-types/lib/ReactPropTypesSecret.js":
 /*!*******************************************************************************************************************!*\
-  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/prop-types/lib/ReactPropTypesSecret.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 
 /***/ }),
 
@@ -11340,12 +11340,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_ea92a4d9664833a26066 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_e9ad7d891b372a4221cf ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_ea92a4d9664833a26066 */ "dll-reference dll_ea92a4d9664833a26066"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_e9ad7d891b372a4221cf */ "dll-reference dll_e9ad7d891b372a4221cf"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -15632,25 +15632,25 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement;
 /***/ }),
 
 /***/ 0:
-/*!************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fhome&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Chome.js ***!
-  \************************************************************************************************************************************************/
+/*!******************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fhome&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Chome.js ***!
+  \******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhome&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Chome.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CUsers%5Cfelipe.xavier%5CDesktop%5CPEDROSO%5Cnextjs%5Cpages%5Chome.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhome&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Chome.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhome&absolutePagePath=C%3A%5CRocketseat%5Cbootcamp%5Cdesafios_fazer%5Capp-chuckNorris%5Cpages%5Chome.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_ea92a4d9664833a26066":
+/***/ "dll-reference dll_e9ad7d891b372a4221cf":
 /*!*******************************************!*\
-  !*** external "dll_ea92a4d9664833a26066" ***!
+  !*** external "dll_e9ad7d891b372a4221cf" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_ea92a4d9664833a26066;
+module.exports = dll_e9ad7d891b372a4221cf;
 
 /***/ })
 
